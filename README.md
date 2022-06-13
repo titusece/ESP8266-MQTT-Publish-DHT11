@@ -10,7 +10,7 @@ subscribe -t sensor/humidity
 
 3) Upload the .ino file into NodeMCU board (ESP8266)
 
-4) Connect DHT11 signal pin to D6 pin which is GPIO12, Vcc to 5V and GND to GND of raspberry pi board.
+4) Connect DHT11 signal pin to D6 pin which is GPIO12, Vcc to 5V and GND to GND of NodeMCU board.
 
 5) Power ON the NodeMCU board.
 
